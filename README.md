@@ -155,9 +155,9 @@ Search for a product and after that use the x function in the search bar to dele
 User should be able to find the product searched on the site and the x function will delete the product name from the bar for him.
 
 **Test data:**
-For search: Unt President
+For search: Oneplus7T
 
-
+-----------------
 **Description:**
 Verify if the user can successfully pay the products using a valid credit card.
 
@@ -177,6 +177,10 @@ User should be able to purchase successfully the products using the credit card 
 * User: bogdan & Pass:147741
 * Cart products: Husa pentru OnePlus 7T, Ultra subtire, Rezistenta la socuri, Rosu
 * Payment Type: Visa
+
+
+
+
 
 
 
